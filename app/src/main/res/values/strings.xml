@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My First App Dio</string>
+    <string name="txt_hello_dio">Hello Dio!</string>
+</resources>
