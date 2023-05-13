@@ -1,4 +1,4 @@
-# meu-primeiro-app-dio
+# Meu Primeiro App DIO
 esse projeto tem o objetivo de realizar o desafio da DIO
 <br><br>
 <img src="src/english.png" height="600px">
